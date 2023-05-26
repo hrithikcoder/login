@@ -1,0 +1,90 @@
+.Parent{
+    
+}
+body{
+    background: rgb(64,64,228);
+background: linear-gradient(90deg, rgba(64,64,228,1) 35%, rgba(248,0,255,1) 98%);
+}
+
+.Login{
+    margin-left: 550px;
+    text-align: center;
+    height: 350px;
+    width: 300px;
+    background: rgba( 247, 246, 246, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 0px );
+-webkit-backdrop-filter: blur( 0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+    
+    margin-top: 200px;
+    border-radius: 8px;
+}
+.heading{
+    text-align: center;
+    margin-top: 10px;
+}
+.form-content{
+    display: block;
+    height: 60px;
+}
+.forget a{
+    text-decoration: none;
+  
+}
+#fname{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 8px;
+    height: 25px;
+    width: 230px;
+}
+.main-signup{
+    margin-top: 20px;
+    display: flex;
+}
+.forget-text{
+    top: 20px;
+    margin-left: 60px;
+}
+.login-btn{
+    outline: none;
+    border-radius: 4px;
+    width: 120px;
+    background-color: #4040e4;
+    height: 30px;
+    border-radius: 12px;
+}
+.Signup{
+
+    margin-left: 10px;
+}
+#mail-img{
+    height: 20px;
+    width: 20px;
+}
+#pass-img{
+    height: 20px;
+    width: 20px;
+}
+.login-link{
+    color: white;
+    text-decoration: none;
+}
+.not-registerd{
+    text-decoration: none;
+}
+.signup-link{
+    text-decoration: none;
+}
+.heading{
+    margin: 5px;
+    color: #ffffff;
+}
+.form{
+    margin-top: 20px;
+}
+a{
+    color: white;
+}
